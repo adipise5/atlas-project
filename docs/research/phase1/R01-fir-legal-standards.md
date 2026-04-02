@@ -4,7 +4,7 @@
 **Document ID:** ATLAS-T101 / R01  
 **Version:** 1.0-DRAFT  
 **Date:** 2 April 2026  
-**Author:** Claude.ai (Primary Researcher) | Aditya (Legal Validation — PENDING)  
+**Author:** Aditya  
 **Status:** Research Complete — Awaiting Legal Review  
 **Confidence:** HIGH (statutory requirements) · MEDIUM (eGujCop implementation details pending IT Cell confirmation)
 
